@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <title>Products Viewer</title>
+</head>
+<body>
+    <div id="app">
+        <header>
+          <div class="container">
+            <div class="hero is-info is-bold">
+              <div class="hero-body">
+                <h1 class="is-size-1">Products</h1>
+              </div>
+            </div>
+          </div>
+        </header>
+        <section class="section">
+          <div class="container">
+            <div>
+              <table class="table is-fullwidth is-striped">
+                <thead>
+                  <tr>
+                    <th>Name</th>
+                    <th>Brand</th>
+                    <th>Price</th>
+                    <th class="has-text-centered">Units in Stock</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for product in products %}
+                    <tr>
+                      <td>
+                        {{product.name}}
+                      </td>
+                      <td>
+                          {{product.brand.name}}
+                      </td>
+                      <td>
+                          {{product.price}}
+                      </td>
+                      <td class="has-text-centered">
+                          {{product.stockUnits}}
+                      </td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+          </div >
+        </section >
+      </div >
+</body>
+</html>

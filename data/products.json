@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Single red garden gnome",
+        "price": 56,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 98
+    },
+    {
+        "name": "Two red garden gnomes",
+        "price": 92,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 4
+    },
+    {
+        "name": "One sat gnome",
+        "price": 34,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 34
+    },
+    {
+        "name": "One sat on shoe gnome",
+        "price": 54,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 54
+    },
+    {
+        "name": "One barrow gnome",
+        "price": 29,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 23
+    },
+    {
+        "name": "One glasses gnome",
+        "price": 54,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 94
+    },
+    {
+        "name": "One smiling gnome",
+        "price": 43,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 45
+    },
+    {
+        "name": "Two singing gnomes",
+        "price": 65,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 78
+    },
+    {
+        "name": "Two sleeping gnomes",
+        "price": 32,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 12
+    },
+    {
+        "name": "Seven-pack gnomes",
+        "price": 2543,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 45
+    },
+    {
+        "name": "One afraid gnome",
+        "price": 39,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 88
+    },
+    {
+        "name": "One welcome gnome",
+        "price": 28,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 65
+    },
+    {
+        "name": "Two smiling gnomes",
+        "price": 76,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 87
+    },
+    {
+        "name": "Microwave 33.9 Cu. Ft. 92325 W",
+        "price": 1740,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 58
+    },
+    {
+        "name": "Refrigerator 1.7 cu. ft. 110 watts",
+        "price": 200,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 54
+    },
+    {
+        "name": "Oven 900 W",
+        "price": 300,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 389
+    },
+    {
+        "name": "Washing machine 1200rpm",
+        "price": 400,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 45
+    },
+    {
+        "name": "Washing machine 900rpm",
+        "price": 300,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 27
+    },
+    {
+        "name": "Kitchen stoves ",
+        "price": 1400,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 58
+    },
+    {
+        "name": "Refrigerator ft. 90 watts",
+        "price": 400,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 25
+    },
+    {
+        "name": "One Handle Stainless Steel Pull Out Kitchen Faucet",
+        "price": 20,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 65
+    },
+    {
+        "name": "Bathing System Classic 18 in. H x 60 in. W x 32.5",
+        "price": 200,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 38
+    },
+    {
+        "name": "Showerhead 1.75 gpm",
+        "price": 40,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 32
+    },
+    {
+        "name": "Toilet 1.28 gal.",
+        "price": 180,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 35
+    },
+    {
+        "name": "Black Bathing System Classic 18 in. H x 60 in. W x 32.5",
+        "price": 250,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 35
+    },
+    {
+        "name": "Bathroom Sink Faucet Waterfall",
+        "price": 175,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 32
+    },
+    {
+        "name": "Bathroom Sink Faucet",
+        "price": 99,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 15
+    },
+    {
+        "name": "Bathroom Sink Faucet Classic",
+        "price": 100,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 12
+    },
+    {
+        "name": "Showerhead 1.20 gpm",
+        "price": 125,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 14
+    },
+    {
+        "name": "Blend Solid White Sheer Curtains",
+        "price": 110,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 18
+    },
+    {
+        "name": "Door Hardware Kit Single Door",
+        "price": 120,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 61
+    },
+    {
+        "name": "White Sheer Curtains",
+        "price": 105,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 95
+    },
+    {
+        "name": "White Window",
+        "price": 120,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 32
+    },
+    {
+        "name": "Curtain Rod 48 in",
+        "price": 25,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 52
+    },
+    {
+        "name": "Steel Passage Door Knob",
+        "price": 10,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 41
+    },
+    {
+        "name": "White Door",
+        "price": 123,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 15
+    },
+    {
+        "name": "White Window Wood",
+        "price": 230,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 84
+    },
+    {
+        "name": "Indoor Kit Gardering",
+        "price": 70,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 25
+    },
+    {
+        "name": "Craftsman 100 ft. L x 5/8 in.",
+        "price": 100,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 74
+    },
+    {
+        "name": "Metal Watering Can",
+        "price": 20,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 59
+    },
+    {
+        "name": "Steel Contractor Wheelbarrow",
+        "price": 100,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 65
+    },
+    {
+        "name": "Craftsman 21 in. W 140",
+        "price": 200,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 82
+    },
+    {
+        "name": "Gardering",
+        "price": 10,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 51
+    },
+    {
+        "name": "Celebrations C9",
+        "price": 10,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 96
+    },
+    {
+        "name": "Artificial Tree",
+        "price": 250,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 654
+    },
+    {
+        "name": "Celebrations C8",
+        "price": 5,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 21
+    },
+    {
+        "name": "Artificial Tree Big",
+        "price": 300,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 32
+    },
+    {
+        "name": "Wood Pack",
+        "price": 30,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 25
+    },
+    {
+        "name": "Wood Table",
+        "price": 395,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 68
+    },
+    {
+        "name": "Kitchen Stoves",
+        "price": 85,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 96
+    },
+    {
+        "name": "Kit Metal Casseroles",
+        "price": 125,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 64
+    },
+    {
+        "name": "Coffee Maker Red",
+        "price": 200,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 68
+    },
+    {
+        "name": "Extractor Steal",
+        "price": 135,
+        "brand": {
+            "name": "Drills Co"
+        },
+        "stockUnits": 35
+    },
+    {
+        "name": "Wooden Commode",
+        "price": 50,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 37
+    },
+    {
+        "name": "Metal Shelving",
+        "price": 90,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 95
+    },
+    {
+        "name": "Big Metal Shelving",
+        "price": 99,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 6
+    },
+    {
+        "name": "Wooden Wardrobe",
+        "price": 120,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 6
+    },
+    {
+        "name": "Wooden Saw",
+        "price": 145,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 65
+    },
+    {
+        "name": "Measuring Tape",
+        "price": 123,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 84
+    },
+    {
+        "name": "Multi Function Drill",
+        "price": 159,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 21
+    },
+    {
+        "name": "Hammer",
+        "price": 100,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 54
+    },
+    {
+        "name": "Screwdriver",
+        "price": 110,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 29
+    },
+    {
+        "name": "Pliers",
+        "price": 105,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 54
+    },
+    {
+        "name": "Red multi-tool plier",
+        "price": 50,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 86
+    },
+    {
+        "name": "Blue multi-tool plier",
+        "price": 50,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 69
+    },
+    {
+        "name": "Stainless multi-tool plier",
+        "price": 90,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 57
+    },
+    {
+        "name": "Yellow Rechargeable screwdriver",
+        "price": 250,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 25
+    },
+    {
+        "name": "Red Rechargeable screwdriver",
+        "price": 250,
+        "brand": {
+            "name": "ElctroDrill"
+        },
+        "stockUnits": 26
+    },
+    {
+        "name": "Rechargeable screwdriver with extra battery",
+        "price": 312,
+        "brand": {
+            "name": "Home & Pro tools"
+        },
+        "stockUnits": 34
+    },
+    {
+        "name": "Yellow hard hat with tool bag pack",
+        "price": 46,
+        "brand": {
+            "name": "ProSaws"
+        },
+        "stockUnits": 65
+    }
+]
