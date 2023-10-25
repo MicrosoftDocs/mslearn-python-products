@@ -1,2 +1,2 @@
 # Flask Framework
-Flask==2.0.3
+Flask==2.3.3
