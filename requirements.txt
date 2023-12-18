@@ -1,2 +1,4 @@
 # Flask Framework
 Flask==2.0.3
+# and its dependencies
+Werkzeug>=2.2,<3.0
